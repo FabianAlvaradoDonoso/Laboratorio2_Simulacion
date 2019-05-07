@@ -1,12 +1,12 @@
-#Laboratorio2_Simulacion
+# Laboratorio2_Simulacion
 
 Desarrollo del Laboratorio 2 de Simulación de Sistemas (código y ejecutables)
 
-##Tema
+## Tema
 
 Usando el método de simulación de MonteCarlo, simular el valor del número Pi y Buffon u otros (Mínimo dos).
 
-###Informe debe contener:
+### Informe debe contener:
 
 - Introducción.
 - Historia del número Pi.
@@ -17,6 +17,6 @@ Usando el método de simulación de MonteCarlo, simular el valor del número Pi 
 - Conclusiones.
 - Bibliografía.
 
-##Contenido del repositorio
+## Contenido del repositorio
 
 En la raíz del repositorio se encuentra los códigos fuentes con sus respectivos ejecutables .exe para ser ejecutados sobre Windows (a pedido del profesor). Además se tiene un archivo .pdf con el informe tomando todos los puntos anteriores.
